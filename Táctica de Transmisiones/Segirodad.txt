@@ -1,0 +1,4 @@
+Seguridad: 
+ - Informe respecto enemigo
+ - Secreto.- Contrainformacion
+ - Dipositivo: Distribucion de tropas 

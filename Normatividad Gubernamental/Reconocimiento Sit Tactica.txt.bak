@@ -1,0 +1,14 @@
+Reconocimiento
+ - pie
+ - caballo
+ - vehiculo
+ - lancha
+ - observatorio     
+
+ - Campo
+ - Cercano
+ - Lejano
+ 
+Operaciones:
+ - Sigilo, basico -> mensajero
+ - Fuego,  basico -> radiocomunicacion
