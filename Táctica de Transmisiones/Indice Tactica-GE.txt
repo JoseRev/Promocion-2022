@@ -31,4 +31,4 @@ MARTES
     - Cap VI   Guerra Electronica Operaciones Tacticas    490-495 (109-110,1  PDF) NO AS 
     - Cap VII  Guerra Electronica Operaciones Ofensivas   496-545 (111-124,13 PDF) NO AS
     - Cap VIII Guerra Electronica Operaciones Defensivas  546-593 (125-137,12 PDF) NO AS
-    - Cap IX   Guerra Electronica Operaciones Retrogadas  594-617 (138-143,15 PDF) NO AS
+    - Cap IX   Guerra Electronica Operaciones Retrogadas  594-617 (138-143,5 PDF) NO AS
