@@ -5,10 +5,10 @@
 
 ARTICULO 51. En los casos de la sucesión del Mando por faltas temporales del Titular, el militar de
 Arma de más alta ___ lo ejercerá; en caso de encontrarse dos o más militares de Arma de la
-misma graduación, lo ejercerá el de mayor antigüedad.
-a. jerarquia
-b. graduacion
-c. grado militar
+misma graduación, lo ejercerá el de mayor antigüedad:
+  a. jerarquia
+  **b. graduacion**
+  c. grado militar
 
 ARTICULO 141. Los cuadros de **Jefes, Oficiales y Sargentos** del Ejército y Fuerza Aérea, se integrarán con personal graduado en los Establecimientos de Educación Militar, de acuerdo con el Plan General de Educación Militar, excepto en los casos expresamente señalados en el Artículo 152.
 
