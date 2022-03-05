@@ -16,17 +16,21 @@
 	Cap II  Ops Mils de G               243-377 (78-114 Pag)
 	Cap III Mils Dif a la G             378-384 (115-116 Pag)
 	Cap IV  La Maniobra                 385-410 (117-123 Pag)
+
+  - 4a P.   Factores concurrentes en O. 	
+	Cap I   La seguridad en las O.      411-455 (124-139 Pag)
+    
+------------------------------------------------------------------------    
+  - 4a P.   Factores concurrentes en O. 	
+	Cap III La Inteligencia             490-569 (140-169 Pag)
+	Cap IV  Coordinacion Fuegos Apoyo   570-613 (170-192 Pag)
     
   - 6a P.   El planeamiento y la accion del m
 	Cap I   Concepcion, Preparacion y C 930-938 (193-198 Pag)
 	Cap II  Planes y Ordenes            939-999 (199-211 Pag)
 	Cap III Planes Estrategicos Nal    1000-1003(212 Pag)
 	Cap IV  Planes de Nivel Op         1004-1012(213-214 Pag)    
-------------------------------------------------------------------------    
-  - 4a P.   Factores concurrentes en O. 	
-	Cap I   La seguridad en las O.      411-455 (124-139 Pag)
-	Cap III La Inteligencia             490-569 (140-169 Pag)
-	Cap IV  Coordinacion Fuegos Apoyo   570-613 (170-192 Pag)
+    
 ------------------------------------------------------------------------    
 
 # MALOMI Manual de Logistica Militar (215-314) 100Pag:
