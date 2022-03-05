@@ -41,9 +41,28 @@
 	
 ---------------------------------------------------------------------------------------------------------
 
-# Reglamento Ley Ascensos (completo)
+# Reglamento Ley Ascensos (Titulo II Completo)
 ### (99-132 PDF) 33 hojas
 
+ARTÍCULO 8.- La Secretaría desarrollará las promociones de Sargentos Primeros Especialistas, Especial y General en tres etapas: I. Primera Etapa: a partir del momento en que ________ , determina el Personal Potencial para cada una de las promociones y hasta la concentración de quienes reúnan los requisitos:
+  - La Direccion Correspondiente
+  - El Estado Mayor 
+  - La Seccion Primera del Estado Mayor
+  - La Secretaria
 
+Articulo 8.- __________ Verificará que la información proporcionada por las Direcciones Generales se encuentre completa y conforme a la Ley, con objeto de que se hagan las comunicaciones de participación o, en su caso, las notificaciones al personal excluido en los términos que señala la Ley.   
 
+Articulo 8.- La concentración del personal se realizará en las fechas, términos y condiciones que determine ________
+  - La Direccion Correspondiente
+  - El Estado Mayor 
+  - La Seccion Primera del Estado Mayor
+  - La Secretaria
 
+ARTÍCULO 10.- Para efectos de los artículos 16 y 23 de la Ley, ________ publicará en el mes
+de enero de cada año los Instructivos de las Promociones General, Especial y de Sargentos Primeros
+Especialistas,
+  - La Direccion Correspondiente
+  - La Direccion General de Informatica
+  - El Estado Mayor 
+  - La Seccion Primera del Estado Mayor
+  - La Secretaria
