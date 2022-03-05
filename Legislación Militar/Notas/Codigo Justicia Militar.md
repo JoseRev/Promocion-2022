@@ -3,12 +3,12 @@ Legislacion Militar
 	- Dificil Deber vs Disciplina
 	- Aydante - Jefe de Campo - Comandante de Cuerpo
 
-Ley Organica  	
+Ley Organica:  	
 	- UU->Arma, Sv, Vuelo
 	- Mando Arma->2+ UU admtivas Btn, DNIII, Arma-Sv, UU combate 
 	- Mandos Optvos->Arma y Pilotos
 	
-Codigo Justicia 
+Codigo Justicia:
   - App Ascenso Libre:
 	- Complices vs Encubridores (Libro Segundo, Titulo Primero, Cap VI, VII)
 	- Suspencion vs Destitucion Empleo (Libro Segundo, Titulo Segundo, Cap III, IV)
@@ -23,11 +23,11 @@ Codigo Justicia
 	- Encubridores 3a clase: Empleo impedir, pero permiten (sin saber antes)
 
 Ley de Ascensos:
-  - Titulo I: 
+  - Titulo I (preguntas app): 
     - Concursante: el militar con jerarquía hasta de Mayor del E y FAM que sustenta exámenes para cubrir una vacante en el grado inmediato superior; 
 	- Participante: el militar que es evaluado con el fin de ser propuesto para un ascenso,
   - Condecoraciones:
-    # 4 son dadas por el Presdiente: Valor Militar(calificado), Merito Militar(ortorgado), Merito Tecnico(concedido), Narcotrafico(otorgado) 
+    - Cuatro condecoraciones son dadas por el Presdiente: Valor Militar(calificado), Merito Militar(otorgado), Merito Tecnico(concedido), Narcotrafico(otorgado) 
     - Valor Heroico: actos de heroísmo excepcional con riesgo de su vida
 	- Mérito Militar: Se OTORGA #relevancia excepcional
 	  - Orden: Mandos Supremos y Altos Mandos
@@ -47,10 +47,10 @@ Ley de Ascensos:
 	  - Cuarta: 15 anos
 	  - Quinta: 10 anos
 	- Servicios Distinguidos: 
-	  #- Se OTORGA por ACUERDO del Secretario 
-	  - Actividades INTERES Extranjeros, Propuesta de mandos superiores a mil. por perenne entrega
+	  - Se OTORGA por ACUERDO del Secretario 
+	  - Actividades INTERES Extranjeros, Propuesta de mandos superiores, perenne entrega
 	- Distinción Militar: 
-	  #- Se OTORGA por DISPOSICION del Secretario 
+	  - Se OTORGA por DISPOSICION del Secretario 
 	  - Rol a Extranjeros o civiles, militares # Cortesia, Intercambio de Experiencias
 	- Mérito Deportivo: [ 1a Clase, 2a Clase, 3a Clase, 4a Clase]
   - Se pieden por: [Traición a la Patria, Rebelión en contra de las instituciones del País]
@@ -89,7 +89,7 @@ ARTICULO 138. El Activo, del Ejército y Fuerza Aérea, estará constituido por 
 se encuentre:
 I. Encuadrado, agregado o comisionado en Unidades, Dependencias e Instalaciones Militares;
 II. A disposición de la Secretaría de la Defensa Nacional;
-III. *Con licencia*;
+III. Con licencia*;
 IV. Hospitalizado;
 V. Sujeto a Proceso; y
 VI. Compurgando una Sentencia. 
