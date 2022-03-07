@@ -1,6 +1,6 @@
 # MOM Operaciones Militares (1-214) 214Pag
-#### Ascenso Seguro completo y muchas preguntas. 
-#### Quizlet falta 4a parte Cap IV CFA, 6a parte Cap II, III, IV
+#### - Ascenso Seguro completo y muchas preguntas, version correcta. 
+#### - Quizlet falta 4a parte Cap IV CFA, 6a parte Cap II, III, IV
   - 1a P.   La guerra
     - Cap I   Teoria de la G                1-42  (2-15 Pag)
     - Cap II  Principios de la G           43-73  (16-23 Pag)
@@ -30,8 +30,8 @@
 ------------------------------------------------------------------------    
 	
 # MALOMI Manual de Logistica Militar (215-314) 100Pag
-#### Ascenso Seguro completos temas y preguntas, version correcta. 
-#### No hay Quizlet Alcaraz
+#### - Ascenso Seguro completos temas y preguntas, version correcta. 
+#### - No hay Quizlet Alcaraz
   - 1a Parte La Logistica y los Servicios
     - Cap I    Generalidades                1-7   (216-218)
 	- Cap II   Las Funciones Logisticas     8-105 (219-250 Pag)

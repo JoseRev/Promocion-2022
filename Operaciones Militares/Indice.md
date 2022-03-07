@@ -1,6 +1,6 @@
 # MOM Operaciones Militares (1-214) 214 Pag:
-#### Ascenso Seguro completo y muchas preguntas. 
-#### Quizlet falta 4a parte Cap IV CFA, 6a parte Cap II, III, IV
+#### - Ascenso Seguro completo y muchas preguntas, version correcta. 
+#### - Quizlet falta 4a parte Cap IV CFA, 6a parte Cap II, III, IV
   - 1a P.   La guerra
     - Cap I   Teoria de la G                1-42  (2-15 Pag)
     - Cap II  Principios de la G           43-73  (16-23 Pag)
