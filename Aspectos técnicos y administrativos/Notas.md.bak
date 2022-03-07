@@ -1,0 +1,23 @@
+Tecnicos (1-186)
+  - 1a Parte Fundamentos de Electricidad Electronica
+    Cap IV   Electronica *Word* 67-151 (2-25)
+	Cap V    Senal                        152-190 
+	Cap VI   Espectro Electromagnetico    191-195
+	Cap VII  Modulacion y Demodulacion    206-236
+	Cap VIII Antenas                      237-297
+  - 2a Parte Sistemas Electronicos de Comunicaciones
+    Cap IV   Comunicaciones por microondas   
+	Cap V    Comunicacion Via Satelite
+	Cap VI   Comunicacion por Medios Opticos
+	Cap VII  Transmision de Datos         420-427
+	Cap VIII Redes de Computadoras y Equipos de Computo 432-468
+	Cap IX   Telefonia                    469-500
+  - 3a Parte Aspectos Complementarios de los Sistemas de Comunicaciones	
+    Cap III  Sistemas de Respaldo de Energia 	
+	Cap IV   Seguridad en Torres Estructurales
+	Cap V    Sistemas de Puestas a Tierra
+    Cap VI   Medidas de Seguridad y Normativdad en los Sistemas de Comunicacion
+  
+Administrativos (187-231)
+  - Cap II Procedimientos Administrativos para cumplir con las principales misiones 35-60
+  - Cap III Procedimientos Administrativos para realizar funciones complementarias 60-102
