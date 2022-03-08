@@ -1,9 +1,13 @@
 # MAEFA Manual de Adiestramiento (1-37 Pg pdf)
+#### Ascenso Seguro Completo
+#### No hay Quizlet con temas 
   - Cap III 4a Sec La Supervision del Adiestramiento    242-255 (1-5 Pg pdf)
   - Cap IV  E.M.A. Ejercicios Militares de Aplicacion   256-424 (6-37 Pg pdf)
 ---------------------------------------------------------------------------
-# Manual Mando Militar (*No app*)
+# Manual Mando Militar
 #### Ascenso Seguro Falta Cap I, Cap IX viene de mas
+#### No hay Quizlet con temas 
+
   - Cap I   Conceptos Generales
     - 4a Sec Concepto del Don de Mando 43-48  (39-40 pg pdf)
 	- 5a Sec Objetivo Don Mando        49-51  (40-41 pg pdf)
