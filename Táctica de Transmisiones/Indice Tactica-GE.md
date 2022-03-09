@@ -1,4 +1,6 @@
 # Manual Empleo Tactico Sv Transmisiones (1-40 PDF)
+#### - Ascenso Seguro completo y muchas preguntas, version correcta. 
+#### - Quizlet falta 4a parte Cap IV CFA, 6a parte Cap II, III, IV
 JUEVES
   - Cap IV   Transmisiones en los Desplazamientos           146-159 (1-6,5   pdf) AS 
   - Cap V    Transmisiones en los Estacionamientos          160-171 (7-10,3  pdf) AS
@@ -10,12 +12,16 @@ JUEVES
 
 -------------------------------------------------------------------------------------------------
 # Manual Operaciones de Guerra Electronica
+#### - Ascenso Seguro completo y muchas preguntas, version correcta. 
+#### - Quizlet falta 4a parte Cap IV CFA, 6a parte Cap II, III, IV
 MARTES
   - 1a P Conceptos Basicos G.E.
     - Cap II   Medidas de Apoyo Electronico               176-225 (42-57,15 PDF) AS
     - Cap III  Contramedidas Electronicas                 226-265 (58-71,13 PDF) AS falta 258-265
     - Cap IV   Medidas de proteccion electronica          266-321 (72-96,24 PDF) AS 
 -------------------------------------------------------------------------------------------------
+#### - Ascenso Seguro completo y muchas preguntas, version correcta. 
+#### - Quizlet falta 4a parte Cap IV CFA, 6a parte Cap II, III, IV
 JUEVES
   - 2a P Empleo Tactico Guerra Electronica
     - Cap IV   Seguridad                                  459-467 (97-99,2 PDF) AS falta 468
