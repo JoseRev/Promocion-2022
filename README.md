@@ -1,6 +1,6 @@
 # Promocion-2022
 
-- Temario a Oct. 2021 de Cap. a Myr. I.C.E.:
+- Temario a Oct. 2022 de Cap. a Myr. I.C.E.:
   - Tec/Admtvo   231 -> Domingo
   - Mando         85 -> Lunes
   - Tactica      143 -> Martes
@@ -8,7 +8,7 @@
   - Tactica      143 -> Jueves
   - Legislacion  159 -> Viernes
   - Operaciones  314 -> Sabado
-  - Total:      1052
+  - Total:      1052 Paginas
 
 
 
@@ -20,8 +20,9 @@
   - Credenciales: jluisrev@hotmail.com/Joseluis0205
 
 -----------------------------------------------------------------------------------
-# Cambiar PDF a fondo negro
-
+# Cambiar PDF a fondo negro en Chrome
+  - https://www.reddit.com/r/chrome/comments/e3txhi/change_pdfs_to_dark_mode/
+  
 var cover = document.createElement("div");
 let css = `
     position: fixed;
