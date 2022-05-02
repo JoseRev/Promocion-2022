@@ -11,14 +11,6 @@
   - Total:      1052 Paginas
 
 
-
-- Quizlet Ruso: 
-  - https://quizlet.com/Manuel_Alcaraz4/folders/1-er-dia?x=1xqU&i=hgxci (Legislacion y Operaciones)
-  - https://quizlet.com/Manuel_Alcaraz4/folders/2do-dia?x=1xqU&i=hgxci  (Normatividad y Tactica)
-  - https://quizlet.com/Manuel_Alcaraz4/folders/3er-dia?x=1xqU&i=hgxci  (Mando y Tec/Admtvo)
-  - Password: C3C0MR3D35
-  - Credenciales: jluisrev@hotmail.com/Joseluis0205
-
 -----------------------------------------------------------------------------------
 # Cambiar PDF a fondo negro en Chrome
   - https://www.reddit.com/r/chrome/comments/e3txhi/change_pdfs_to_dark_mode/
